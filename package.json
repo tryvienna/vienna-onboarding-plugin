@@ -1,6 +1,7 @@
 {
   "name": "plugin-vienna-onboarding-plugin",
   "version": "0.0.1",
+  "vienna-plugin": true,
   "private": true,
   "description": "Vienna onboarding plugin with top bar icon",
   "type": "module",
